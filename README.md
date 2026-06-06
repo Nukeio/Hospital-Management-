@@ -23,15 +23,15 @@ A simple Hospital Management System built with **React**. Manage patients, docto
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/hospital-management.git
+git clone https://github.com/YOUR_USERNAME/hospital-management.git or download the project locally 
 
-# 2. Navigate into the project folder
+# 2. Navigate into the project folder or open terminal in the project folder 
 cd hospital-management
 
-# 3. Install dependencies
+# 3. Install dependencies run
 npm install
 
-# 4. Start the development server
+# 4. Start the development server run
 npm start
 ```
 
