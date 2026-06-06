@@ -1,17 +1,17 @@
 // Initial seed data for the hospital management system
 
 export const initialPatients = [
-  { id: 1, name: "Alice Johnson", age: 34, gender: "Female", phone: "555-0101", email: "alice@email.com", bloodType: "A+", condition: "Hypertension", status: "Admitted", doctor: "Dr. Smith", ward: "Cardiology", admitDate: "2026-06-01" },
-  { id: 2, name: "Bob Martinez", age: 52, gender: "Male", phone: "555-0102", email: "bob@email.com", bloodType: "O-", condition: "Diabetes Type 2", status: "Outpatient", doctor: "Dr. Patel", ward: "Endocrinology", admitDate: "2026-06-03" },
+  { id: 1, name: "anjuma akthar", age: 20, gender: "Female", phone: "555-0101", email: "test@gmail.com", bloodType: "A+", condition: "Hypertension", status: "Admitted", doctor: "Dr. nuke", ward: "Cardiology", admitDate: "2026-06-01" },
+  { id: 2, name: "Sunya dani", age: 52, gender: "Female", phone: "555-0102", email: "sun@gmail.com", bloodType: "O-", condition: "Diabetes Type 2", status: "Outpatient", doctor: "Dr. Patel", ward: "Endocrinology", admitDate: "2026-06-03" },
   { id: 3, name: "Carol White", age: 28, gender: "Female", phone: "555-0103", email: "carol@email.com", bloodType: "B+", condition: "Appendicitis", status: "Discharged", doctor: "Dr. Kim", ward: "Surgery", admitDate: "2026-05-28" },
   { id: 4, name: "David Lee", age: 67, gender: "Male", phone: "555-0104", email: "david@email.com", bloodType: "AB+", condition: "Pneumonia", status: "Admitted", doctor: "Dr. Smith", ward: "Pulmonology", admitDate: "2026-06-04" },
   { id: 5, name: "Eva Chen", age: 45, gender: "Female", phone: "555-0105", email: "eva@email.com", bloodType: "A-", condition: "Migraine", status: "Outpatient", doctor: "Dr. Patel", ward: "Neurology", admitDate: "2026-06-05" },
 ];
 
 export const initialDoctors = [
-  { id: 1, name: "Dr. Sarah Smith", specialty: "Cardiology", phone: "555-0201", email: "s.smith@medicore.com", schedule: "Mon-Fri", patients: 12, status: "Available", experience: "12 years" },
+  { id: 1, name: "Dr. Saiful Islam", specialty: "Cardiology", phone: "555-0201", email: "s.smith@medicore.com", schedule: "Mon-Fri", patients: 12, status: "Available", experience: "12 years" },
   { id: 2, name: "Dr. Raj Patel", specialty: "Endocrinology", phone: "555-0202", email: "r.patel@medicore.com", schedule: "Mon-Thu", patients: 9, status: "Busy", experience: "8 years" },
-  { id: 3, name: "Dr. Jin Kim", specialty: "Surgery", phone: "555-0203", email: "j.kim@medicore.com", schedule: "Tue-Sat", patients: 7, status: "Available", experience: "15 years" },
+  { id: 3, name: "Dr. Arif hussain", specialty: "Surgery", phone: "555-0203", email: "j.kim@medicore.com", schedule: "Tue-Sat", patients: 7, status: "Available", experience: "15 years" },
   { id: 4, name: "Dr. Maria Lopez", specialty: "Neurology", phone: "555-0204", email: "m.lopez@medicore.com", schedule: "Mon-Fri", patients: 11, status: "Off Duty", experience: "10 years" },
 ];
 
