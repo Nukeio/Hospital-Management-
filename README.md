@@ -1,0 +1,69 @@
+# 🏥 MediCore – Hospital Management System
+
+A simple, clean Hospital Management System built with **React**. Manage patients, doctors, and appointments all in one place.
+
+---
+
+## ✨ Features
+
+- **Dashboard** – overview stats and recent activity
+- **Patients** – add, view, search, and remove patient records
+- **Doctors** – manage doctor profiles and availability
+- **Appointments** – schedule, confirm, and cancel appointments
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- npm (comes with Node.js)
+
+### Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/YOUR_USERNAME/hospital-management.git
+
+# 2. Navigate into the project folder
+cd hospital-management
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm start
+```
+
+The app will open at **http://localhost:3000** in your browser.
+
+---
+
+## 📁 Project Structure
+
+```
+hospital-management/
+├── public/
+│   └── index.html
+├── src/
+│   ├── data/
+│   │   └── seedData.js       # Sample data
+│   ├── App.js                # Main app with all components
+│   └── index.js              # Entry point
+├── .gitignore
+├── package.json
+└── README.md
+```
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/) – UI library
+- [Create React App](https://create-react-app.dev/) – project setup
+
+---
+
+## 📄 License
+
+MIT License – free to use and modify.
