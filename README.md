@@ -1,6 +1,6 @@
 # 🏥 MediCore – Hospital Management System
 
-A simple Hospital Management System built with **React**. Manage patients, doctors, and appointments all in one place.
+A Hospital Management System built with **React**. Manage patients, doctors, and appointments all in one place.
 
 ---
 
@@ -59,8 +59,8 @@ hospital-management/
 
 ##  Built With
 
-- [React](https://reactjs.org/) – UI library
-- [Create React App](https://create-react-app.dev/) – project setup
+- [React] – UI library
+- [Create React App] – project setup
 
 ---
 Queries at : Shahinxsha@gmail.com
